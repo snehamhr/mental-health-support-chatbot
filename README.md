@@ -1,5 +1,5 @@
 # AI Mental Health Companion
-
+      -Sneha Maheria
 A conversational AI chatbot that provides empathetic mental health support. It uses Retrieval-Augmented Generation (RAG) to ground its responses in real psychological literature, and detects the user's emotional state to respond with appropriate sensitivity and care.
 
 This isn't a replacement for therapy — it's a calm, non-judgmental space where someone can talk about how they're feeling and get a thoughtful, informed response.
